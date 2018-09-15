@@ -1,0 +1,15 @@
+#front-panel{
+	background-image: url(media/bigHead.jpeg);
+	background-size: 100vh;
+	background-repeat: no-repeat;
+	overflow: hidden;
+	background-position: center -100px;
+
+	height: 100vh;
+	max-width: 900px;
+	width: 100vh;
+}
+
+#front-panel .container {
+	margin-top: 30vh;
+}
